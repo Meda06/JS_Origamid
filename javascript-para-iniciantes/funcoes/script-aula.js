@@ -61,6 +61,8 @@ console.log(faltaVisitar(20))
 
 var profissao = 'Desinger'
 
+profissao
+
 console.log(dados())
 
 function dados(){
@@ -73,3 +75,5 @@ function dados(){
   }
   return outrosDados()
 }
+
+profissao.
